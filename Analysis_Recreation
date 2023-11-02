@@ -1,0 +1,18 @@
+Instructions to replicate a demographic analysis using Python, along with the key findings:
+
+To replicate the demographic analysis:
+
+1. Load the Dataset:
+   - Obtain a dataset (provided in ‘datasets’ folder).
+   - Use Pandas to load the dataset into a DataFrame.
+
+2. Data Cleaning and Preprocessing:
+   - Clean and preprocess the data by handling missing values, data type conversions, and removing duplicates(if required).
+
+3. Perform Calculations:
+   - Conduct demographic calculations, such as mean, median, mode, and aggregations based on demographics provided.
+   - Calculate workers percentage based on industrial category and age.
+
+4. Create Visualizations:
+   - Utilize Matplotlib and Seaborn for data visualization.
+   - Generate various plots like bar charts, heatmaps, and pie charts to represent demographic distributions.
